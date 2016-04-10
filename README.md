@@ -1,1 +1,1 @@
-# [tanasehagi.github.io](https://tanasehagi.github.io)
+<a href="https://tanasehagi.github.io" target="_blank">tanasehagi.github.io</a>
